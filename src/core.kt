@@ -29,3 +29,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
+// drop an unused branch
