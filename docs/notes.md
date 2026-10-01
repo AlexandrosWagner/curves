@@ -31,3 +31,4 @@ Notes and usage details for curves.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
