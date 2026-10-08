@@ -31,3 +31,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // handle the edge case from the last release
 // avoid re-reading the config on every call
 // guard against empty input
+// keep defaults in sync with the manifest
