@@ -38,3 +38,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // guard against empty input
 // clarify the control flow
 // drop an unused branch
+// avoid re-reading the config on every call
